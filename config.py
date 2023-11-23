@@ -1,0 +1,2 @@
+API_KEY = 'BCMW4XEPG0SP5IOT'
+DATABASE_NAME = 'stock_data.db'
